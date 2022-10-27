@@ -1,4 +1,4 @@
-### Hi there 👋
+# 안녕하세요 저는 게임 개발을 위해 공부를 하고있는 빅데이터 고현종입니다.
 
 <!--
 **hyeonjongko/hyeonjongko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
